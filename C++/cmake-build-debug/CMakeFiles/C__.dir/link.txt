@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/C__.dir/main.cpp.o CMakeFiles/C__.dir/test_.cpp.o  -o C__ 
