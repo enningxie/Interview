@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/enningxie/Interview/offer/03_01/FindDuplication.cpp
+cstdio
+-
+
+/home/enningxie/Interview/offer/03_02/FindDuplicationNoEdit.cpp
+iostream
+-
+
+/home/enningxie/Interview/offer/main.cpp
+iostream
+-
+

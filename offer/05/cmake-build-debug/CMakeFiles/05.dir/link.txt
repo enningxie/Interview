@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/05.dir/ReplaceSpaces.cpp.o  -o 05 

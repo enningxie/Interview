@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/offer.dir/main.cpp.o CMakeFiles/offer.dir/03_01/FindDuplication.cpp.o CMakeFiles/offer.dir/03_02/FindDuplicationNoEdit.cpp.o  -o offer 
