@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/enningxie/Interview/offer/03_01/FindDuplication.cpp" "/home/enningxie/Interview/offer/cmake-build-debug/CMakeFiles/offer.dir/03_01/FindDuplication.cpp.o"
-  "/home/enningxie/Interview/offer/03_02/FindDuplicationNoEdit.cpp" "/home/enningxie/Interview/offer/cmake-build-debug/CMakeFiles/offer.dir/03_02/FindDuplicationNoEdit.cpp.o"
-  "/home/enningxie/Interview/offer/main.cpp" "/home/enningxie/Interview/offer/cmake-build-debug/CMakeFiles/offer.dir/main.cpp.o"
+  "/home/enningxie/Codes/Interview/offer/03_01/FindDuplication.cpp" "/home/enningxie/Codes/Interview/offer/cmake-build-debug/CMakeFiles/offer.dir/03_01/FindDuplication.cpp.o"
+  "/home/enningxie/Codes/Interview/offer/03_02/FindDuplicationNoEdit.cpp" "/home/enningxie/Codes/Interview/offer/cmake-build-debug/CMakeFiles/offer.dir/03_02/FindDuplicationNoEdit.cpp.o"
+  "/home/enningxie/Codes/Interview/offer/main.cpp" "/home/enningxie/Codes/Interview/offer/cmake-build-debug/CMakeFiles/offer.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
